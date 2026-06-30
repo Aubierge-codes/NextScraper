@@ -1,0 +1,368 @@
+{
+  "Rwanda": [
+    {
+      "name": "University of Rwanda (UR)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Agriculture and Veterinary Medicine (CAVM)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Arts and Social Sciences (CASS)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Business and Economics (CBE)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Education (CE)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Medicine and Health Sciences (CMHS)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Science and Technology (CST)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Agriculture and Veterinary Medicine (CAVM)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Arts and Social Sciences (CASS)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Business and Economics (CBE)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Education (CE)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Medicine and Health Sciences (CMHS)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "College of Science and Technology (CST)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Gishari Integrated Polytechnic (GIP)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Institute of Legal Practice and Development (ILPD)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Integrated Polytechnic Regional College Ngoma(IPRC-Ngoma)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Integrated Polytechnic Regional College Kigali (IPRC-Kigali)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Integrated Polytechnic Regional College Huye (IPRC-Huye)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Integrated Polytechnic Regional College Karongi (IPRC-Karongi)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Musanze Polytechnic College (Musanze Campus)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Rwanda Teachers College (RTC)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Integrated Polytechnic Regional College Tumba (IPRC-Tumba)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Community Integrated Polytechnic (CIP)",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Integrated Polytechnic Regional College Rusizi(IPRC-Rusizi)[citation needed]",
+      "location": "Rwanda"
+    },
+    {
+      "name": "IPRC Kitabi",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Byumba School of Nursing And Midwifery",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Kibungo School of Nursing And Midwifery",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Nyagatare School of Nursing And Midwifery",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Rwamagana School of Nursing",
+      "location": "Rwanda"
+    },
+    {
+      "name": "Rwanda Institute for Conservation Agriculture (RICA)",
+      "location": "Rwanda"
+    }
+  ],
+  "Kenya": [
+    {
+      "name": "1",
+      "location": "University of Nairobi"
+    },
+    {
+      "name": "2",
+      "location": "Moi University"
+    },
+    {
+      "name": "3",
+      "location": "Kenyatta University"
+    },
+    {
+      "name": "4",
+      "location": "Egerton University"
+    },
+    {
+      "name": "5",
+      "location": "Maseno University"
+    },
+    {
+      "name": "6",
+      "location": "Jomo Kenyatta University of Agriculture and Technology"
+    },
+    {
+      "name": "7",
+      "location": "Technical University of Mombasa"
+    },
+    {
+      "name": "8",
+      "location": "Masinde Muliro University of Science and Technology"
+    },
+    {
+      "name": "9",
+      "location": "Dedan Kimathi University of Technology"
+    },
+    {
+      "name": "10",
+      "location": "Chuka University"
+    },
+    {
+      "name": "11",
+      "location": "Laikipia University"
+    },
+    {
+      "name": "12",
+      "location": "South Eastern Kenya University"
+    },
+    {
+      "name": "13",
+      "location": "Kisii University"
+    },
+    {
+      "name": "14",
+      "location": "Multimedia University of Kenya"
+    },
+    {
+      "name": "15",
+      "location": "University of Kabianga"
+    },
+    {
+      "name": "16",
+      "location": "Karatina University"
+    },
+    {
+      "name": "17",
+      "location": "Meru University of Science and Technology"
+    },
+    {
+      "name": "18",
+      "location": "Kirinyaga University"
+    },
+    {
+      "name": "19",
+      "location": "Pwani University[9]"
+    },
+    {
+      "name": "20",
+      "location": "Murang'a University of Technology"
+    },
+    {
+      "name": "21",
+      "location": "Machakos University"
+    },
+    {
+      "name": "22",
+      "location": "University of Eldoret"
+    },
+    {
+      "name": "23",
+      "location": "Kibabii University"
+    },
+    {
+      "name": "24",
+      "location": "Maasai Mara University"
+    },
+    {
+      "name": "25",
+      "location": "The Co-operative University of Kenya"
+    },
+    {
+      "name": "26",
+      "location": "Rongo University"
+    },
+    {
+      "name": "27",
+      "location": "Technical University of Kenya"
+    },
+    {
+      "name": "28",
+      "location": "Garissa University"
+    },
+    {
+      "name": "29",
+      "location": "Jaramogi Oginga Odinga University of Science and Technology"
+    },
+    {
+      "name": "30",
+      "location": "Taita Taveta University"
+    }
+  ],
+  "Canada": [
+    {
+      "name": "Alberta University of the Arts",
+      "location": "Alberta"
+    },
+    {
+      "name": "Acadia University",
+      "location": "Nova Scotia"
+    },
+    {
+      "name": "Algoma University",
+      "location": "Ontario"
+    },
+    {
+      "name": "Athabasca University",
+      "location": "Alberta"
+    },
+    {
+      "name": "Bishop's University",
+      "location": "Quebec"
+    },
+    {
+      "name": "Brandon University",
+      "location": "Manitoba"
+    },
+    {
+      "name": "Brock University",
+      "location": "Ontario"
+    },
+    {
+      "name": "Cape Breton University",
+      "location": "Nova Scotia"
+    },
+    {
+      "name": "Capilano University",
+      "location": "British Columbia"
+    },
+    {
+      "name": "Carleton University",
+      "location": "Ontario"
+    },
+    {
+      "name": "Concordia University",
+      "location": "Quebec"
+    },
+    {
+      "name": "Dalhousie University",
+      "location": "Nova Scotia"
+    },
+    {
+      "name": "Emily Carr University of Art and Design",
+      "location": "British Columbia"
+    },
+    {
+      "name": "Kwantlen Polytechnic University",
+      "location": "British Columbia"
+    },
+    {
+      "name": "Lakehead University",
+      "location": "Ontario"
+    },
+    {
+      "name": "MacEwan University",
+      "location": "Alberta"
+    },
+    {
+      "name": "Mount Royal University",
+      "location": "Alberta"
+    },
+    {
+      "name": "University of Alberta",
+      "location": "Alberta"
+    },
+    {
+      "name": "University of Calgary",
+      "location": "Alberta"
+    },
+    {
+      "name": "University of Lethbridge",
+      "location": "Alberta"
+    },
+    {
+      "name": "Royal Roads University",
+      "location": "British Columbia"
+    },
+    {
+      "name": "Simon Fraser University",
+      "location": "British Columbia"
+    },
+    {
+      "name": "Thompson Rivers University",
+      "location": "British Columbia"
+    },
+    {
+      "name": "University of British Columbia",
+      "location": "British Columbia"
+    },
+    {
+      "name": "University of Victoria",
+      "location": "British Columbia"
+    },
+    {
+      "name": "University of the Fraser Valley",
+      "location": "British Columbia"
+    },
+    {
+      "name": "University of Northern British Columbia",
+      "location": "British Columbia"
+    },
+    {
+      "name": "Vancouver Island University",
+      "location": "British Columbia"
+    },
+    {
+      "name": "University College of the North",
+      "location": "Manitoba"
+    },
+    {
+      "name": "University of Manitoba",
+      "location": "Manitoba"
+    }
+  ]
+}
